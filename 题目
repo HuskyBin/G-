@@ -1,0 +1,7 @@
+ 2.1 一个container, 只有get(i)这个interface，i超出范围了就返回None。 问给一个
+: x，如何实现has(x)。long实现以后 follow up问能不能比以2为底的log更快。
+: 2.2 一个container, 有push和pop random，要求O(1)。敲门就是swap。
+: 3.1 一个只有0和1的matrix实现transpose，要求位操作实现。
+: 3.2 一群小伙伴出去吃饭，先各付各的，最后互相写支票汇款使得各自付出均等。求最
+: 少支票数实现。
+: 4. generate random binary tree 这题好狠啊
